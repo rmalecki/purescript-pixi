@@ -10,8 +10,8 @@
     "tmp"
   ],
   "dependencies": {
-    "pixi": "~1.6.1",
-    "purescript-oo-ffi": "^1.0.0"
+    "pixi": "~3.0.8",
+    "purescript-oo-ffi": "~1.0.0"
   },
   "devDependencies": {
     "purescript-quickcheck": "~0.1.3",
